@@ -360,6 +360,7 @@ p.title {
     width: 350px;
     height: 360px;
     background-image: url("../media/services_black.png");
+    object-fit: cover;
     padding: 45px;
     font-weight: 900;
     font-size: 24px;
